@@ -6,10 +6,10 @@ See video #241 https://youtu.be/Yq7KdIC6Xu4
 
 [![JLCPCB-Purple](https://user-images.githubusercontent.com/20911308/159024530-3e083ca1-fea4-4ba9-97d3-a3af3fb979d2.png)](https://www.jlcpcb.com/cem)  
 
+**So I want to drive two LEDs (a bi-colour one, as it happens) with a single GPIO pin. How easy is it to do that? What traps lie in wait for us? And we must save power!**
+
 ► You can now support me by buying me a coffee!  
 https://buymeacoffee.com/ralphbacon
-
-So I want to drive two LEDs (a bi-colour one, as it happens) with a single GPIO pin. How easy is it to do that? What traps lie in wait for us? And we must save power!
 
 ### COMPONENTS  
 
